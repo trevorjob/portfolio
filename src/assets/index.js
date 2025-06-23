@@ -5,6 +5,8 @@ import menu from "./menu.svg";
 import seo from "./seo.png";
 import youtubesum from "./youtubesum.png";
 import pharmarc from "./pharmarc.png";
+import twitterbot from "./twitterbot.png";
+import finwallet from "./finwallet.png";
 import bookola from "./bookola.png";
 
-export { close, logo, menu, seo, bookola, pharmarc, youtubesum };
+export { close, logo, menu, seo, bookola, pharmarc, youtubesum , twitterbot, finwallet};
